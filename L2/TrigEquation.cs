@@ -10,24 +10,40 @@ namespace L2
     {
         double _arg;
         TrigonometricFunction _function;
-        enum TrigonometricFunction
+        public enum TrigonometricFunction
         {
             Sin,
             Cos,
-            Tan
+            Tan,
+            Arcsin,
+            Arccos
         }
-        TrigEquation(TrigonometricFunction tf, double argument)
+        public TrigEquation(TrigonometricFunction tf, double argument)
         {
             _arg = argument;
             _function = tf;
         }
         public string Solve()
         {
-            //switch (tf)
-            //{
-            //    case TrigonometricFunction.Sin:
-
-            //}
+           
+            if (_arg < -1 || _arg>1)
+            {
+                throw new TrigException("Argument invalid: ", _arg);
+            }
+            
+            double x = 0;
+            switch (_function)
+            {
+                case TrigonometricFunction.Sin:
+                    x = Math.Asin(_arg);
+                    return $"x = {x} radiani";
+                case TrigonometricFunction.Cos:
+                    x = Math.Acos(_arg);
+                    return $"x = {x} radiani";
+                case TrigonometricFunction.Tan:
+                    x = Math.Tan(_arg);
+                    return $"x = {x} radiani";
+            }
             return "";
         }
         

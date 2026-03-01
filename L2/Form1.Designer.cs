@@ -39,10 +39,10 @@
             this.CalculeazaButton = new System.Windows.Forms.Button();
             this.DespreButton = new System.Windows.Forms.Button();
             this.IesireButton = new System.Windows.Forms.Button();
-            this.comboBox1 = new System.Windows.Forms.ComboBox();
+            this.comboBoxTrig = new System.Windows.Forms.ComboBox();
             this.EcTrigonometricaSelect = new System.Windows.Forms.RadioButton();
             this.label4 = new System.Windows.Forms.Label();
-            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.textArg = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.textBoxSolutie = new System.Windows.Forms.TextBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
@@ -133,9 +133,9 @@
             // 
             // CalculeazaButton
             // 
-            this.CalculeazaButton.Location = new System.Drawing.Point(596, 86);
+            this.CalculeazaButton.Location = new System.Drawing.Point(549, 119);
             this.CalculeazaButton.Name = "CalculeazaButton";
-            this.CalculeazaButton.Size = new System.Drawing.Size(90, 23);
+            this.CalculeazaButton.Size = new System.Drawing.Size(111, 31);
             this.CalculeazaButton.TabIndex = 1;
             this.CalculeazaButton.Text = "Calculeaza";
             this.CalculeazaButton.UseVisualStyleBackColor = true;
@@ -143,9 +143,9 @@
             // 
             // DespreButton
             // 
-            this.DespreButton.Location = new System.Drawing.Point(596, 156);
+            this.DespreButton.Location = new System.Drawing.Point(549, 174);
             this.DespreButton.Name = "DespreButton";
-            this.DespreButton.Size = new System.Drawing.Size(75, 23);
+            this.DespreButton.Size = new System.Drawing.Size(111, 23);
             this.DespreButton.TabIndex = 2;
             this.DespreButton.Text = "Despre";
             this.DespreButton.UseVisualStyleBackColor = true;
@@ -153,21 +153,27 @@
             // 
             // IesireButton
             // 
-            this.IesireButton.Location = new System.Drawing.Point(596, 235);
+            this.IesireButton.Location = new System.Drawing.Point(549, 216);
             this.IesireButton.Name = "IesireButton";
-            this.IesireButton.Size = new System.Drawing.Size(75, 23);
+            this.IesireButton.Size = new System.Drawing.Size(111, 23);
             this.IesireButton.TabIndex = 3;
             this.IesireButton.Text = "Iesire";
             this.IesireButton.UseVisualStyleBackColor = true;
             this.IesireButton.Click += new System.EventHandler(this.IesireButton_Click);
             // 
-            // comboBox1
+            // comboBoxTrig
             // 
-            this.comboBox1.FormattingEnabled = true;
-            this.comboBox1.Location = new System.Drawing.Point(51, 59);
-            this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(121, 24);
-            this.comboBox1.TabIndex = 4;
+            this.comboBoxTrig.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.comboBoxTrig.FormattingEnabled = true;
+            this.comboBoxTrig.Items.AddRange(new object[] {
+            "Sin",
+            "Cos",
+            "Tan"});
+            this.comboBoxTrig.Location = new System.Drawing.Point(51, 59);
+            this.comboBoxTrig.Name = "comboBoxTrig";
+            this.comboBoxTrig.Size = new System.Drawing.Size(121, 24);
+            this.comboBoxTrig.TabIndex = 4;
+            this.comboBoxTrig.SelectedIndexChanged += new System.EventHandler(this.comboBoxTrig_SelectedIndexChanged);
             // 
             // EcTrigonometricaSelect
             // 
@@ -190,12 +196,13 @@
             this.label4.TabIndex = 6;
             this.label4.Text = "=";
             // 
-            // textBox4
+            // textArg
             // 
-            this.textBox4.Location = new System.Drawing.Point(270, 59);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(58, 22);
-            this.textBox4.TabIndex = 7;
+            this.textArg.Location = new System.Drawing.Point(270, 59);
+            this.textArg.Name = "textArg";
+            this.textArg.Size = new System.Drawing.Size(58, 22);
+            this.textArg.TabIndex = 7;
+            this.textArg.TextChanged += new System.EventHandler(this.textArg_TextChanged);
             // 
             // label5
             // 
@@ -216,8 +223,8 @@
             // groupBox2
             // 
             this.groupBox2.Controls.Add(this.EcTrigonometricaSelect);
-            this.groupBox2.Controls.Add(this.comboBox1);
-            this.groupBox2.Controls.Add(this.textBox4);
+            this.groupBox2.Controls.Add(this.comboBoxTrig);
+            this.groupBox2.Controls.Add(this.textArg);
             this.groupBox2.Controls.Add(this.label4);
             this.groupBox2.Location = new System.Drawing.Point(57, 156);
             this.groupBox2.Name = "groupBox2";
@@ -272,10 +279,10 @@
         private System.Windows.Forms.Button CalculeazaButton;
         private System.Windows.Forms.Button DespreButton;
         private System.Windows.Forms.Button IesireButton;
-        private System.Windows.Forms.ComboBox comboBox1;
+        private System.Windows.Forms.ComboBox comboBoxTrig;
         private System.Windows.Forms.RadioButton EcTrigonometricaSelect;
         private System.Windows.Forms.Label label4;
-        private System.Windows.Forms.TextBox textBox4;
+        private System.Windows.Forms.TextBox textArg;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox textBoxSolutie;
         private System.Windows.Forms.GroupBox groupBox2;

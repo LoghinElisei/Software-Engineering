@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace L2
 {
-    internal class TrigException
+    internal class TrigException: Exception
     {
         double _argument;
         string _message;
@@ -16,5 +16,7 @@ namespace L2
             _message = message;
             _argument = argument;
         }
+        public override string Message => _message+_argument.ToString();
+
     }
 }
