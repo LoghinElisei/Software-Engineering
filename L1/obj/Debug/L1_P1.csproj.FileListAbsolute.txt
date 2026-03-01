@@ -1,0 +1,7 @@
+C:\Users\loghi\Desktop\facultate\anul 3\sem2\IP\L1\L1_P1\bin\Debug\L1_P1.exe.config
+C:\Users\loghi\Desktop\facultate\anul 3\sem2\IP\L1\L1_P1\bin\Debug\L1_P1.exe
+C:\Users\loghi\Desktop\facultate\anul 3\sem2\IP\L1\L1_P1\bin\Debug\L1_P1.pdb
+C:\Users\loghi\Desktop\facultate\anul 3\sem2\IP\L1\L1_P1\obj\Debug\L1_P1.csproj.AssemblyReference.cache
+C:\Users\loghi\Desktop\facultate\anul 3\sem2\IP\L1\L1_P1\obj\Debug\L1_P1.csproj.CoreCompileInputs.cache
+C:\Users\loghi\Desktop\facultate\anul 3\sem2\IP\L1\L1_P1\obj\Debug\L1_P1.exe
+C:\Users\loghi\Desktop\facultate\anul 3\sem2\IP\L1\L1_P1\obj\Debug\L1_P1.pdb
