@@ -5,9 +5,8 @@
 ## 📂 Lab 1
 
 ### 📖 Description
-Introduction to basic C# concepts, including classes, interfaces and fundamental code structures.
 In this lab, I explored object-oriented programming principles in C#, focusing on defining classes, implementing interfaces, and understanding how they interact within a simple application.
-Additionally, I worked with Dotfuscator for code obfuscation, performed code disassembly, and used a .NET reflector tool to analyze compiled assemblies.
+* Additionally, I worked with Dotfuscator for code obfuscation, performed code disassembly, and used a .NET reflector tool to analyze compiled assemblies.
 
 
 ### 🖼️ Screenshot
