@@ -22,6 +22,19 @@ The application provides a graphical user interface (GUI) to solve two primary t
 * Trigonometric Equations: Solves basic equations such as $\sin(x) = a$, $\cos(x) = a$, and $\tan(x) = a$
 
 ### 🖼️ Screenshot
-<img src = "images/lab2.png" alt = "Lab 1" width = "400"> 
+<img src = "images/lab2.png" alt = "Lab 2" width = "400"> 
 
 ---
+## 📂 Lab 3
+
+### 📖 Description
+This application implements a C# Class Library (Prim.dll) to handle prime number logic and demonstrates the difference between static and dynamic linking.
+
+* Prime Logic: Efficiently verifies primality and performs decomposition for even and odd numbers.
+
+* Dynamic Linking: Loads the DLL at runtime using System.Reflection for modularity.
+
+* Performance: Optimized algorithms designed to execute complex decompositions in under 1 second.
+
+### 🖼️ Screenshot
+<img src = "images/lab3.png" alt = "Lab 3" width = "400"> 
