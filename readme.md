@@ -38,3 +38,18 @@ This application implements a C# Class Library (Prim.dll) to handle prime number
 
 ### 🖼️ Screenshot
 <img src = "images/lab3.png" alt = "Lab 3" width = "400"> 
+
+---
+## 📂 Lab 4
+
+### 📖 Description
+This application focuses on project documentation, featuring a C# implementation of a Magic Square generator and the integration of automated help systems.
+* Magic Square Logic: Utilizes a dedicated class, MagicBuilder, to calculate and generate magic squares of any size (odd, singly even, or doubly even).
+* Dynamic Graphics: Implements a Windows Forms interface to visually draw the generated matrix using System.Drawing, including grid lines and numeric values. * Documentation Systems: User Help: Includes a compiled help file (.chm) created with HelpNDoc for end-user guidance, accessible directly from the application's interface.
+     * API Documentation: Features automated developer documentation generated with Doxygen based on triple-slash (///) XML code comments and structured file headers.
+* File Management: Provides functionality to save the generated magic square as an image file (PNG, BMP, JPG, or GIF) using a SaveFileDialog
+
+### 🖼️ Screenshot
+<img src = "images/lab4_1.png" alt = "Lab 4" width = "400"> <br>
+<img src = "images/lab4_2.png" alt = "Lab 4" width = "600"> 
+
