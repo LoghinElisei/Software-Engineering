@@ -39,6 +39,7 @@ This application implements a C# Class Library (Prim.dll) to handle prime number
 ### 🖼️ Screenshot
 <img src = "images/lab3.png" alt = "Lab 3" width = "400"> 
 
+
 ---
 ## 📂 Lab 4
 
@@ -53,3 +54,22 @@ This application focuses on project documentation, featuring a C# implementation
 <img src = "images/lab4_1.png" alt = "Lab 4" width = "400"> <br>
 <img src = "images/lab4_2.png" alt = "Lab 4" width = "600"> 
 
+
+
+## 📂 Lab 5
+
+### 📖 Description
+This laboratory focuses on the practical application of **Unified Modeling Language (UML)** through the use of **Altova UModel**, specifically exploring the synchronization between visual models and C# source code.
+
+* **Code Engineering**:
+    * **Forward Engineering**: Involves creating a class diagram within a dedicated package set as a C# Namespace Root to generate functional C# source files.
+    * **Reverse Engineering**: Utilizes the software's import functionality to automatically generate class diagrams from existing Visual Studio C# projects or source directories.
+* **Diagram Drawing & Design**:
+    * **Structural Diagrams**: Includes the manual construction of complex Class Diagrams featuring advanced relationships like dependency, aggregation, composition, and associations with specific multiplicities.
+    * **Behavioral Diagrams**: Features the creation of Use Case diagrams to model actor interactions, Activity diagrams with decisions and partitions (swimlanes), and Sequence diagrams to visualize object lifelines and messages.
+    * **OOP Representation**: Implements visual notations for specialized object-oriented concepts, including abstract classes, interfaces, static members, and method overrides.
+* **Project Documentation**: Includes the export of all designed diagrams as image files (PNG/JPG) for comprehensive technical documentation.
+
+### 🖼️ Screenshot
+<img src = "images/DiagramFromCode.png" alt = "Lab 5 UML" width = "300"> <br>
+<img src = "images/MyClassDiagram.png" alt = "Lab 5 Code Engineering" width = "500">
