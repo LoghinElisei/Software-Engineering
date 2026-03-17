@@ -3,15 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L4\\MagicSquare\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97E8C73C-BB88-49DB-8CB2-9FEF759ADB7F}|MagicSquare\\MagicSquare.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l4\\magicsquare\\magicsquare\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97E8C73C-BB88-49DB-8CB2-9FEF759ADB7F}|MagicSquare\\MagicSquare.csproj|solutionrelative:magicsquare\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97E8C73C-BB88-49DB-8CB2-9FEF759ADB7F}|MagicSquare\\MagicSquare.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L4\\MagicSquare\\magicsquare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E8C73C-BB88-49DB-8CB2-9FEF759ADB7F}|MagicSquare\\MagicSquare.csproj|solutionrelative:magicsquare\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{40CD760B-D5B6-465E-A6CF-F981749DBD55}|MagicBuilder\\MagicBuilder.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l4\\magicsquare\\magicbuilder\\magicbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{40CD760B-D5B6-465E-A6CF-F981749DBD55}|MagicBuilder\\MagicBuilder.csproj|solutionrelative:magicbuilder\\magicbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97E8C73C-BB88-49DB-8CB2-9FEF759ADB7F}|MagicSquare\\MagicSquare.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l4\\magicsquare\\magicsquare\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{97E8C73C-BB88-49DB-8CB2-9FEF759ADB7F}|MagicSquare\\MagicSquare.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L4\\MagicSquare\\magicsquare\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97E8C73C-BB88-49DB-8CB2-9FEF759ADB7F}|MagicSquare\\MagicSquare.csproj|solutionrelative:magicsquare\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97E8C73C-BB88-49DB-8CB2-9FEF759ADB7F}|MagicSquare\\MagicSquare.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L4\\MagicSquare\\magicsquare\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{97E8C73C-BB88-49DB-8CB2-9FEF759ADB7F}|MagicSquare\\MagicSquare.csproj|solutionrelative:magicsquare\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -40,32 +44,45 @@
               "RelativeDocumentMoniker": "MagicBuilder\\MagicBuilder.cs",
               "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L4\\MagicSquare\\MagicBuilder\\MagicBuilder.cs",
               "RelativeToolTip": "MagicBuilder\\MagicBuilder.cs",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAkwFQAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T15:08:01.421Z",
+              "WhenOpened": "2026-03-09T18:37:06.154Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L4\\MagicSquare\\MagicSquare\\Program.cs",
+              "RelativeDocumentMoniker": "MagicSquare\\Program.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L4\\MagicSquare\\MagicSquare\\Program.cs",
+              "RelativeToolTip": "MagicSquare\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T18:32:20.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L4\\MagicSquare\\MagicSquare\\MainForm.cs",
               "RelativeDocumentMoniker": "MagicSquare\\MainForm.cs",
-              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L4\\MagicSquare\\MagicSquare\\MainForm.cs",
-              "RelativeToolTip": "MagicSquare\\MainForm.cs",
-              "ViewState": "AgIAAEEAAAAAAAAAAAAgwF8AAAANAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L4\\MagicSquare\\MagicSquare\\MainForm.cs*",
+              "RelativeToolTip": "MagicSquare\\MainForm.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T15:00:49.56Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L4\\MagicSquare\\MagicSquare\\MainForm.cs",
               "RelativeDocumentMoniker": "MagicSquare\\MainForm.cs",
-              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L4\\MagicSquare\\MagicSquare\\MainForm.cs [Design]",
-              "RelativeToolTip": "MagicSquare\\MainForm.cs [Design]",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L4\\MagicSquare\\MagicSquare\\MainForm.cs [Design]*",
+              "RelativeToolTip": "MagicSquare\\MainForm.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-09T15:00:47.4Z",
               "EditorCaption": " [Design]"

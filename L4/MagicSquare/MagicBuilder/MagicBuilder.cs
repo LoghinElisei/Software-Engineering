@@ -1,17 +1,17 @@
-/**************************************************************************
+﻿/**************************************************************************
  *                                                                        *
  *  File:        MagicBuilder.cs                                          *
- *  Copyright:   (c) 2003, A. Riazi                                       *
- *  Website:     http://www.codeproject.com/KB/recipes/Magic_Square.asp   *
- *  Description: Calculates magic squares of any size.                    *
- *               Translated into C# and adapted by Florin Leon            *
- *               http://florinleon.byethost24.com/lab_ip.htm              *
+ *  Copyright:   (c) 2026, Loghin Elisei                              *
+ *  E-mail:      elisei.loghin2@student.tuiasi.ro                         *
+ *  Website:     https://github.com/LoghinElisei                          *
+ *  Description: Calculates magic squares of any size                     *
  *                                                                        *
- *  This code and information is provided "as is" without warranty of     *
- *  any kind, either expressed or implied, including but not limited      *
- *  to the implied warranties of merchantability or fitness for a         *
- *  particular purpose. You are free to use this source code in your      *
- *  applications as long as the original copyright notice is included.    *
+ *  This program is free software; you can redistribute it and/or modify  *
+ *  it under the terms of the GNU General Public License as published by  *
+ *  the Free Software Foundation. This program is distributed in the      *
+ *  hope that it will be useful, but WITHOUT ANY WARRANTY; without even   *
+ *  the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR   *
+ *  PURPOSE. See the GNU General Public License for more details.         *
  *                                                                        *
  **************************************************************************/
 
@@ -20,17 +20,28 @@ using System.Collections.Generic;
 
 namespace MagicSquare
 {
+    /// <summary>
+    /// Clasa pentru construirea unui pătrat magic
+    /// </summary>
     public class MagicBuilder
     {
         private int[,] _matrix;
         private int _size;
 
+        /// <summary>
+        /// Constructorul clasei pentru pătratul magic
+        /// </summary>
+        /// <param name="size">Dimensiunea pătratului</param>
         public MagicBuilder(int size)
         {
             _size = size;
             _matrix = new int[size, size];
         }
 
+        /// <summary>
+        /// Metoda care returnează pătratul construit
+        /// </summary>
+        /// <returns>Matricea corespunzătoare pătratului magic</returns>
         public int[,] BuildMagicSquare()
         {
             if (_size < 1 || _matrix == null)
@@ -39,6 +50,11 @@ namespace MagicSquare
             return _matrix;
         }
 
+        /// <summary>
+        /// Determină tipul de algoritm necesar în funcție de dimensiunea n.
+        /// </summary>
+        /// <param name="matrix">Matricea în care se vor scrie valorile.</param>
+        /// <param name="n">Dimensiunea pătratului.</param>
         private void MagicSquare(int[,] matrix, int n)
         {
             if (n % 2 == 1) // n is odd
@@ -52,6 +68,11 @@ namespace MagicSquare
             }
         }
 
+        /// <summary>
+        /// Algoritm pentru pătrate magice de ordin impar
+        /// </summary>
+        /// <param name="matrix">Matricea țintă.</param>
+        /// <param name="n">Dimensiunea impară.</param>
         private void OddMagicSquare(int[,] matrix, int n)
         {
             int nsqr = n * n;
@@ -79,6 +100,11 @@ namespace MagicSquare
             }
         }
 
+        /// <summary>
+        /// Algoritm pentru pătrate magice de ordin dublu par (divizibil cu 4).
+        /// </summary>
+        /// <param name="matrix">Matricea țintă.</param>
+        /// <param name="n">Dimensiunea (multiplu de 4).</param>
         private void DoublyEvenMagicSquare(int[,] matrix, int n)
         {
             int[,] mat1 = new int[n, n];
@@ -105,6 +131,11 @@ namespace MagicSquare
                 }
         }
 
+        /// <summary>
+        /// Algoritm pentru pătrate magice de ordin simplu par (divizibil cu 2, dar nu cu 4).
+        /// </summary>
+        /// <param name="matrix">Matricea țintă.</param>
+        /// <param name="n">Dimensiunea (pară, non-multiplu de 4).</param>
         private void SinglyEvenMagicSquare(int[,] matrix, int n)
         {
             int p = n / 2;

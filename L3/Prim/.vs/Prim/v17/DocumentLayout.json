@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L3\\Prim\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{219ECC13-FFBA-4589-AA87-9F056A143CB3}|..\\Test\\Test.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l3\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A25A4EC3-4D40-4CC6-A34E-1D8FFB580FBB}|Prim.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L3\\Prim\\prim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A25A4EC3-4D40-4CC6-A34E-1D8FFB580FBB}|Prim.csproj|solutionrelative:prim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{219ECC13-FFBA-4589-AA87-9F056A143CB3}|..\\Test\\Test.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l3\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,16 +25,17 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Prim.cs",
               "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L3\\Prim\\Prim.cs",
               "RelativeDocumentMoniker": "Prim.cs",
               "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L3\\Prim\\Prim.cs",
               "RelativeToolTip": "Prim.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAxwBYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBUAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-04T12:23:10.573Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -42,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L3\\Test\\Program.cs",
               "RelativeDocumentMoniker": "..\\Test\\Program.cs",

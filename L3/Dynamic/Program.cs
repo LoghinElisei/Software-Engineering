@@ -20,14 +20,14 @@ namespace Dynamic
                                                     // se folosește numele complet al clasei din assembly, incluzând namespace-ul
             Type t = a.GetType("Prim.Prim"); // namespace.clasa
                                                      // se identifică metoda care ne interesează
-            MethodInfo mi = t.GetMethod("isPrim"); // metoda
+            MethodInfo mi = t.GetMethod("numaraPrime"); // metoda
                                                    // se creează o instanță a clasei dorite
                                                    // aici se apelează constructorul implicit
            
             object[] argsx = new object[1]; // atenție că args apare ca argument în main, redenumiți
-            argsx[0] = 274;
-            // apelul efectiv al metodei și memorarea rezultatului
-            bool result = (bool)mi.Invoke(null, argsx);
+            argsx[0] = 271;
+       
+            int result = (int)mi.Invoke(null, argsx);
 
             Console.WriteLine(result);
           

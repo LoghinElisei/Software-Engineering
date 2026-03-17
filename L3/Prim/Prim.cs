@@ -8,7 +8,7 @@ namespace Prim
 {
     public class Prim
     {
-        public static bool isPrim(int x)
+        public static bool IsPrim(int x)
         {
             if (x == 0 || x == 1)
                return false;
@@ -23,13 +23,13 @@ namespace Prim
             }
             return true;
         }
-        public static int numaraPrime(int x)
+        public static int NumaraPrime(int x)
         {
             int res = 0;
         
             for(int i=2; i <= x; i++)
             {
-                if ( Prim.isPrim(i))
+                if ( Prim.IsPrim(i))
                 {
                     res++;
                 }
