@@ -73,3 +73,22 @@ This laboratory focuses on the practical application of **Unified Modeling Langu
 ### 🖼️ Screenshot
 <img src = "images/DiagramFromCode.png" alt = "Lab 5 UML" width = "300"> <br>
 <img src = "images/MyClassDiagram.png" alt = "Lab 5 Code Engineering" width = "500">
+
+
+
+## 📂 Lab 6
+### 📖 Description
+This project implements the **Model-View-Presenter (MVP)** architectural pattern to build a robust **Transport Information System**. It focuses on strict decoupling of business logic from the user interface, allowing for both Console and Windows Forms front-ends using the same core logic.
+
+* **MVP Architecture**: Implements a **Passive View** pattern where the `Presenter` acts as the orchestrator, the `Model` manages the `cities.txt` database, and the `View` remains a thin UI layer.
+* **Geospatial Logic**: Features the **Haversine Formula** to calculate real-world distances (km) between cities based on latitude and longitude coordinates.
+* **Decoupled Design**: Utilization of **Interface-Based Programming** (`IModel`, `IView`, `IPresenter`) to ensure the system is highly testable and UI-independent.
+* **Dynamic UI Systems**: 
+    * **CLI**: A state-driven hierarchical menu system using `Enums` and `Structs` for a professional console experience.
+    * **GUI**: Support for **Windows Forms** implementation sharing the exact same Presenter/Model components.
+* **Data Persistence**: Efficient file I/O management with `StreamReader/Writer` and `CultureInfo` handling for precise coordinate parsing.
+
+### 🖼️ Screenshot
+<img src = "images/lab6_1.png" alt = "Lab 6 Console" width = "500"> <br>
+
+
