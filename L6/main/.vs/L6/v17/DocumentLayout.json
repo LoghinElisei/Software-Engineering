@@ -82,8 +82,7 @@
               "ViewState": "AgIAABgAAAAAAAAAAAAYwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-30T09:45:03.173Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -103,8 +102,7 @@
               "RelativeToolTip": "..\\Model\\Model.cs",
               "ViewState": "AgIAAIoAAAAAAAAAAAAYwIAAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T09:54:56.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T09:54:56.747Z"
             },
             {
               "$type": "Document",
@@ -116,8 +114,7 @@
               "RelativeToolTip": "..\\View\\Menus.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-30T09:48:53.11Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-30T09:48:53.11Z"
             },
             {
               "$type": "Document",
@@ -127,7 +124,7 @@
               "RelativeDocumentMoniker": "..\\View\\ConsoleView.cs",
               "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L6\\View\\ConsoleView.cs",
               "RelativeToolTip": "..\\View\\ConsoleView.cs",
-              "ViewState": "AgIAAHkAAAAAAAAAAAD4v5UAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAMwJgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-30T09:46:03.188Z",
               "EditorCaption": ""
@@ -142,8 +139,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T12:36:44.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T12:36:44.477Z"
             },
             {
               "$type": "Document",
@@ -166,8 +162,7 @@
               "RelativeToolTip": "TranportInfoMain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-25T13:33:41.582Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T13:33:41.582Z"
             },
             {
               "$type": "Document",
@@ -239,10 +234,10 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Model",
-              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\Model\\Model.csproj",
-              "RelativeDocumentMoniker": "..\\..\\Model\\Model.csproj",
-              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\Model\\Model.csproj",
-              "RelativeToolTip": "..\\..\\Model\\Model.csproj",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L6\\Model\\Model.csproj",
+              "RelativeDocumentMoniker": "..\\Model\\Model.csproj",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L6\\Model\\Model.csproj",
+              "RelativeToolTip": "..\\Model\\Model.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2026-03-25T12:39:19.324Z"
             }
