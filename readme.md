@@ -92,3 +92,15 @@ This project implements the **Model-View-Presenter (MVP)** architectural pattern
 <img src = "images/lab6_1.png" alt = "Lab 6 Console" width = "500"> <br>
 
 
+## 📂 Lab 7
+### 📖 Description
+This project implements the **Factory Method** design pattern to create a versatile **Document Reader** application. It focuses on decoupling the document creation logic from specific file formats, allowing the system to dynamically generate various page types within a unified interface.
+
+* **Factory Method Pattern**: Implements a creator hierarchy (`Document`) that delegates the instantiation of products (`Page`) to concrete subclasses like `TextDocument` and `GraphicDocument` .
+* **Multi-Format Rendering**: Supports diverse file extensions including `.txt`, `.rtf`, `.bmp`, and `.jpg`, with optional support for `.pdf` and `.docx`.
+* **Index-Driven Loading**: Automatically populates document pages by parsing index files (`.txd`, `.grd`) using `StreamReader`.
+* **Dynamic UI Integration**: Utilizes a `TabControl` to host various Windows Forms controls (`TextBox`, `PictureBox`, etc.) as interactive document pages .
+* **Scalable Architecture**: Features a modular folder structure for `Document` and `Pages`, ensuring the system is easily extensible for new file formats .
+
+### 🖼️ Screenshot
+<img src = "images/lab7_1.png" alt = "Lab 7 Document Factory" width = "500"> <br>
