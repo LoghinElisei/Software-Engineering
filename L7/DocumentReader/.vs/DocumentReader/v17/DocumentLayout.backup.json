@@ -3,59 +3,59 @@
   "WorkspaceRootPath": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\pages\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:pages\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\pages\\text\\textpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:pages\\text\\textpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\pages\\text\\richtextformatpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:pages\\text\\richtextformatpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\pages\\text\\pdfpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:pages\\text\\pdfpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\pages\\text\\docxpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:pages\\text\\docxpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\pages\\images\\jpegpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:pages\\images\\jpegpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\pages\\images\\bitmappage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:pages\\images\\bitmappage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\document\\textdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:document\\textdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\document\\graphicdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:document\\graphicdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\document\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:document\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l7\\documentreader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l7\\documentreader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l7\\documentreader\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l7\\documentreader\\pages\\text\\docxpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:pages\\text\\docxpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l7\\documentreader\\document\\textdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:document\\textdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l7\\documentreader\\pages\\text\\pdfpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:pages\\text\\pdfpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l7\\documentreader\\pages\\text\\textpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:pages\\text\\textpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l7\\documentreader\\document\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:document\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l7\\documentreader\\document\\graphicdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:document\\graphicdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l7\\documentreader\\pages\\images\\bitmappage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:pages\\images\\bitmappage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l7\\documentreader\\pages\\images\\jpegpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:pages\\images\\jpegpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l7\\documentreader\\pages\\text\\richtextformatpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:pages\\text\\richtextformatpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l7\\documentreader\\pages\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:pages\\page.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l7\\documentreader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1A7488D6-F6C4-42ED-8A4E-0F2F84568214}|DocumentReader.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -66,11 +66,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Document.cs",
               "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Document\\Document.cs",
               "RelativeDocumentMoniker": "Document\\Document.cs",
@@ -91,21 +91,12 @@
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DocxPage.cs",
-              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Text\\DocxPage.cs",
-              "RelativeDocumentMoniker": "Pages\\Text\\DocxPage.cs",
-              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Text\\DocxPage.cs",
-              "RelativeToolTip": "Pages\\Text\\DocxPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T17:39:21.055Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "PdfPage.cs",
               "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Text\\PdfPage.cs",
               "RelativeDocumentMoniker": "Pages\\Text\\PdfPage.cs",
@@ -118,45 +109,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "JpegPage.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Images\\JpegPage.cs",
+              "RelativeDocumentMoniker": "Pages\\Images\\JpegPage.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Images\\JpegPage.cs",
+              "RelativeToolTip": "Pages\\Images\\JpegPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T18:06:21.45Z",
+              "WhenOpened": "2026-04-05T17:39:09.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DocxPage.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Text\\DocxPage.cs",
+              "RelativeDocumentMoniker": "Pages\\Text\\DocxPage.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Text\\DocxPage.cs",
+              "RelativeToolTip": "Pages\\Text\\DocxPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T17:39:21.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RichTextFormatPage.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Text\\RichTextFormatPage.cs",
+              "RelativeDocumentMoniker": "Pages\\Text\\RichTextFormatPage.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Text\\RichTextFormatPage.cs",
+              "RelativeToolTip": "Pages\\Text\\RichTextFormatPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T17:39:38.331Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
+              "Title": "TextPage.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Text\\TextPage.cs",
+              "RelativeDocumentMoniker": "Pages\\Text\\TextPage.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Text\\TextPage.cs",
+              "RelativeToolTip": "Pages\\Text\\TextPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T17:31:07.074Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-04-05T17:39:45.493Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAAwBQAAAAiAAAAAAAAAA==",
+              "Title": "Page.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Page.cs",
+              "RelativeDocumentMoniker": "Pages\\Page.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Page.cs",
+              "RelativeToolTip": "Pages\\Page.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T18:06:27.775Z",
+              "WhenOpened": "2026-04-05T17:38:42.617Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BitmapPage.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Images\\BitmapPage.cs",
+              "RelativeDocumentMoniker": "Pages\\Images\\BitmapPage.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Images\\BitmapPage.cs",
+              "RelativeToolTip": "Pages\\Images\\BitmapPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T17:39:00.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TextDocument.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Document\\TextDocument.cs",
+              "RelativeDocumentMoniker": "Document\\TextDocument.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Document\\TextDocument.cs",
+              "RelativeToolTip": "Document\\TextDocument.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-05T17:40:46.994Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -173,80 +213,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "TextDocument.cs",
-              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Document\\TextDocument.cs",
-              "RelativeDocumentMoniker": "Document\\TextDocument.cs",
-              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Document\\TextDocument.cs",
-              "RelativeToolTip": "Document\\TextDocument.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T17:40:46.994Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TextPage.cs",
-              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Text\\TextPage.cs",
-              "RelativeDocumentMoniker": "Pages\\Text\\TextPage.cs",
-              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Text\\TextPage.cs",
-              "RelativeToolTip": "Pages\\Text\\TextPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T17:39:45.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "BitmapPage.cs",
-              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Images\\BitmapPage.cs",
-              "RelativeDocumentMoniker": "Pages\\Images\\BitmapPage.cs",
-              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Images\\BitmapPage.cs",
-              "RelativeToolTip": "Pages\\Images\\BitmapPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T17:39:00.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "JpegPage.cs",
-              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Images\\JpegPage.cs",
-              "RelativeDocumentMoniker": "Pages\\Images\\JpegPage.cs",
-              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Images\\JpegPage.cs",
-              "RelativeToolTip": "Pages\\Images\\JpegPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAADwvxYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T17:39:09.852Z",
+              "WhenOpened": "2026-04-05T18:06:27.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "RichTextFormatPage.cs",
-              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Text\\RichTextFormatPage.cs",
-              "RelativeDocumentMoniker": "Pages\\Text\\RichTextFormatPage.cs",
-              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Text\\RichTextFormatPage.cs",
-              "RelativeToolTip": "Pages\\Text\\RichTextFormatPage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T17:39:38.331Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T17:31:07.074Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Page.cs",
-              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Page.cs",
-              "RelativeDocumentMoniker": "Pages\\Page.cs",
-              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Pages\\Page.cs",
-              "RelativeToolTip": "Pages\\Page.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L7\\DocumentReader\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T17:38:42.617Z",
+              "WhenOpened": "2026-04-05T18:06:21.45Z",
               "EditorCaption": ""
             },
             {
@@ -259,8 +259,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-05T17:42:52.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-05T17:42:52.821Z"
             }
           ]
         }
