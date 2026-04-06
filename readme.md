@@ -104,3 +104,17 @@ This project implements the **Factory Method** design pattern to create a versat
 
 ### 🖼️ Screenshot
 <img src = "images/lab7_1.png" alt = "Lab 7 Document Factory" width = "500"> <br>
+
+## 📂 Lab 8
+### 📖 Description
+This project explores the **Singleton** and **Prototype** creational design patterns through two distinct Windows Forms applications: a centralized printer queue simulation and an optimized monster-shooting game. It focuses on managing shared resources and optimizing performance when creating resource-heavy objects.
+
+* **Singleton Pattern**: Implements a unified `Printer` class to manage a single document queue across the entire application, ensuring only one instance is ever created.
+* **Printer Simulation**: Utilizes a `Timer` control to simulate asynchronous document processing based on file size, strictly adhering to a FIFO (First-In, First-Out) queue mechanism.
+* **Prototype Pattern**: Optimizes the generation of enemies in a game by cloning a base `MonsterSprite` object, bypassing the costly and time-consuming Artificial Intelligence (`InitAI`) initialization module.
+* **Deep Copy Serialization**: Implements robust object cloning using `BinaryFormatter` and `MemoryStream` to duplicate state, requiring the targeted classes to be decorated with the `[Serializable]` attribute.
+* **XML Configuration & Deserialization**: Dynamically loads game assets and monster properties (such as images, colors, and lives) by parsing a `settings.xml` configuration file using `XmlSerializer`.
+
+### 🖼️ Screenshots
+<img src = "images/lab8_1.png" alt = "Lab 8 Printer Simulation" width = "500"> <br>
+<img src = "images/lab8_2.png" alt = "Lab 8 Prototype Monsters" width = "500"> <br>
