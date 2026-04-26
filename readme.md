@@ -118,3 +118,21 @@ This project explores the **Singleton** and **Prototype** creational design patt
 ### 🖼️ Screenshots
 <img src = "images/lab8_1.png" alt = "Lab 8 Printer Simulation" width = "500"> <br>
 <img src = "images/lab8_2.png" alt = "Lab 8 Prototype Monsters" width = "500"> <br>
+
+
+## 📂 Lab 9
+### 📖 Description
+This project implements the Proxy, Composite, and Iterator structural and behavioral design patterns through a secure document management system and a hierarchical project task explorer. It focuses on enforcing access control, securing data transmission, and managing complex object trees.
+
+* **Protection Proxy Pattern**: Uses a ProxyDocumentManager to intercept requests and control access to sensitive files based on user authorization levels.
+* **Security & Authentication**: Implements SHA1 password hashing and verifies user credentials against a secure database file.
+* **Rijndael Encryption**: Secures document content during simulated transfer between the real manager and the proxy through encryption and decryption.
+* **Administrative Module**: Provides a dedicated interface for authorized admins to create and persist new user accounts. 
+* **Composite Pattern**: Models a "Project Task Explorer" where individual tasks and task groups share a unified interface for calculating total project costs and durations.
+* **Iterator Strategies (DFS & BFS)**: Features custom iterators for BFS (level-by-level processing) and DFS (deep sub-task prioritization) traversal of the project tree.
+
+### 🖼️ Screenshots
+<img src = "images/lab9_1.png" alt = "Lab 9" width = "500"> <br>
+
+
+
