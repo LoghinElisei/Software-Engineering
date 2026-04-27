@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37111.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProtectionProxy", "ProtectionProxy.csproj", "{921CE208-56FF-4C2E-AC43-2AFF47BCB565}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealDocumentManager_Server", "..\RealDocumentManager_Server\RealDocumentManager_Server.csproj", "{AA1492F4-52A2-4265-857D-20E5F53361CA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +17,15 @@ Global
 		{921CE208-56FF-4C2E-AC43-2AFF47BCB565}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{921CE208-56FF-4C2E-AC43-2AFF47BCB565}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{921CE208-56FF-4C2E-AC43-2AFF47BCB565}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA1492F4-52A2-4265-857D-20E5F53361CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA1492F4-52A2-4265-857D-20E5F53361CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA1492F4-52A2-4265-857D-20E5F53361CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA1492F4-52A2-4265-857D-20E5F53361CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ABCC969-5C04-4BCA-AEBB-E09A6B439ABB}
 	EndGlobalSection
 EndGlobal
