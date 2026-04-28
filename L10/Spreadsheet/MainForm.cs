@@ -26,6 +26,7 @@ namespace Spreadsheet
         private TextBoxGrid _grid;
         private Invoker _invoker;
         private int _selected; // numarul celulei in care se efectueaza o actiune; _grid.GetCell(_selected) intoarce obiectul ExtendedTextBox corespunzator
+        private FormulaEvaluator _evaluator;
 
         public MainForm()
         {
@@ -33,6 +34,7 @@ namespace Spreadsheet
 
             _grid = new TextBoxGrid(Controls, 27, 140, new EventHandler(textBox_Enter), new EventHandler(textBox_Leave), new KeyEventHandler(textBox_KeyDown));
             _invoker = new Invoker(_grid);
+            _evaluator = new FormulaEvaluator(_grid);
 
             UpdateUndoRedoCombos();
         }
@@ -44,7 +46,7 @@ namespace Spreadsheet
             Control ac = this.ActiveControl;
             ExtendedTextBox tb = (ExtendedTextBox)sender;
 
-            throw new Exception("Aceasta metoda trebuie completata");
+            _selected = Convert.ToInt32(tb.Name.Substring(2));
         }
 
         private void textBox_Leave(object sender, EventArgs e)
@@ -55,12 +57,24 @@ namespace Spreadsheet
             ExtendedTextBox tb = (ExtendedTextBox)sender;
             _selected = Convert.ToInt32(tb.Name.Substring(2));
 
-            // se creeaza o comanda de schimbare a textului daca este o comanda valida (care provoaca o schimbare), 
-            // se introduce in _invoker si apoi se includ urmatoarele instructiuni:
-            // this.ActiveControl = ac;
-            // UpdateUndoRedoCombos();
+            string evaluatedText = _evaluator.Evaluate(tb.Text);
+            if (evaluatedText != tb.Text)
+            {
+                tb.Text = evaluatedText;
+            }
 
-            throw new Exception("Aceasta metoda trebuie completata");
+            ChangeTextCommand c = new ChangeTextCommand(tb, $"Change text on {_grid.GetCoords(_selected)}: \"{tb.Text}\"");
+            if (c.MakesChanges())
+            {
+                _invoker.SetAndExecute(c);
+            }
+            else
+            {
+                tb.Text = tb.PreviousText;
+            }
+
+            this.ActiveControl = ac;
+            UpdateUndoRedoCombos();
         }
 
         private void textBox_KeyDown(object sender, KeyEventArgs e)
@@ -85,45 +99,59 @@ namespace Spreadsheet
             // se creeaza o comanda de schimbare a culorii
             // daca este o comanda valida (care provoaca o schimbare), se introduce in _invoker si apoi se apeleaza metoda UpdateUndoRedoCombos
 
-            throw new Exception("Aceasta metoda trebuie completata");
+            ExtendedTextBox cell = _grid.GetCell(_selected);
+            ChangeColorCommand cmd = new ChangeColorCommand(cell, c, $"Change color on {_grid.GetCoords(_selected)}: {c.Name}");
+
+            if (cmd.MakesChanges())
+            {
+                _invoker.SetAndExecute(cmd);
+                UpdateUndoRedoCombos();
+            }
         }
 
         private void buttonNormal_Click(object sender, EventArgs e)
         {
-            // se creeaza o comanda de schimbare a formatului
-            // daca este o comanda valida (care provoaca o schimbare), se introduce in _invoker si apoi se apeleaza metoda UpdateUndoRedoCombos
-
-            throw new Exception("Aceasta metoda trebuie completata");
+            ExtendedTextBox cell = _grid.GetCell(_selected);
+            ChangeFormatCommand cmd = new ChangeFormatCommand(cell, FontStyle.Regular, $"Change format on {_grid.GetCoords(_selected)}: Regular");
+            if (cmd.MakesChanges())
+            {
+                _invoker.SetAndExecute(cmd);
+                UpdateUndoRedoCombos();
+            }
         }
 
         private void buttonBold_Click(object sender, EventArgs e)
         {
-            // se creeaza o comanda de schimbare a formatului
-            // daca este o comanda valida (care provoaca o schimbare), se introduce in _invoker si apoi se apeleaza metoda UpdateUndoRedoCombos
-
-            throw new Exception("Aceasta metoda trebuie completata");
+            ExtendedTextBox cell = _grid.GetCell(_selected);
+            ChangeFormatCommand cmd = new ChangeFormatCommand(cell, FontStyle.Bold, $"Change format on {_grid.GetCoords(_selected)}: Bold");
+            if (cmd.MakesChanges())
+            {
+                _invoker.SetAndExecute(cmd);
+                UpdateUndoRedoCombos();
+            }
         }
 
         private void buttonItalic_Click(object sender, EventArgs e)
         {
-            // se creeaza o comanda de schimbare a formatului
-            // daca este o comanda valida (care provoaca o schimbare), se introduce in _invoker si apoi se apeleaza metoda UpdateUndoRedoCombos
-
-            throw new Exception("Aceasta metoda trebuie completata");
+            ExtendedTextBox cell = _grid.GetCell(_selected);
+            ChangeFormatCommand cmd = new ChangeFormatCommand(cell, FontStyle.Italic, $"Change format on {_grid.GetCoords(_selected)}: Italic");
+            if (cmd.MakesChanges())
+            {
+                _invoker.SetAndExecute(cmd);
+                UpdateUndoRedoCombos();
+            }
         }
 
         private void buttonUndo_Click(object sender, EventArgs e)
         {
-            // dupa undo se apeleaza metoda UpdateUndoRedoCombos
-
-            throw new Exception("Aceasta metoda trebuie completata");
+            _invoker.Undo();
+            UpdateUndoRedoCombos();
         }
 
         private void buttonRedo_Click(object sender, EventArgs e)
         {
-            // dupa redo se apeleaza metoda UpdateUndoRedoCombos
-
-            throw new Exception("Aceasta metoda trebuie completata");
+            _invoker.Redo();
+            UpdateUndoRedoCombos();
         }
 
         private void UpdateUndoRedoCombos()
@@ -174,8 +202,7 @@ namespace Spreadsheet
             const string copyright =
                "Sablonul de proiectare Comanda\r\n" +
                "Ingineria programarii, Laboratorul 10\r\n" +
-               "(c)2008-2019 Florin Leon\r\n" +
-               "http://florinleon.byethost24.com/lab_ip.htm";
+               "(c)2026 Loghin Elisei\r\n";
 
             MessageBox.Show(copyright, "Despre Foaia de calcul");
         }

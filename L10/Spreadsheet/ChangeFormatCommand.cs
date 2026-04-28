@@ -23,38 +23,35 @@ namespace Spreadsheet
     public class ChangeFormatCommand : Command
     {
         private ExtendedTextBox _cell;
-        // alte campuri
+        private FontStyle _newStyle;
+        private FontStyle _previousStyle;
 
         public ChangeFormatCommand(ExtendedTextBox cell, FontStyle format, string description)
         {
-            // se seteaza valorile campurilor
-            // pentru descriere, se foloseste proprietatea Description definita in clasa de baza Command
-            throw new Exception("Aceasta metoda trebuie completata");
+            _cell = cell;
+            _newStyle = format;
+            Description = description;
         }
 
         public override bool MakesChanges()
         {
-            // returneaza true daca se modifica ceva in celula de tip ExtendedTextBox
-            // returneaza false daca nu se modifica nimic
-
-            throw new Exception("Aceasta metoda trebuie completata");
+            return _cell.Font.Style != _newStyle;
         }
 
         public override void Execute()
         {
-            // exemplu de schimbare a corpului de litera: _cell.Font = new Font(_cell.Font, _newStyle);
-
-            throw new Exception("Aceasta metoda trebuie completata");
+            _previousStyle = _cell.Font.Style;
+            _cell.Font = new Font(_cell.Font, _newStyle);
         }
 
         public override void Undo()
         {
-            throw new Exception("Aceasta metoda trebuie completata");
+            _cell.Font = new Font(_cell.Font, _previousStyle);
         }
 
         public override void Redo()
         {
-            throw new Exception("Aceasta metoda trebuie completata");
+            _cell.Font = new Font(_cell.Font, _newStyle);
         }
     }
 }

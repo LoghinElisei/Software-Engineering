@@ -1,7 +1,56 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l10\\spreadsheet\\formulaevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|solutionrelative:spreadsheet\\formulaevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\spreadsheet\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|solutionrelative:spreadsheet\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\spreadsheet\\changetextcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|solutionrelative:spreadsheet\\changetextcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\spreadsheet\\changeformatcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|solutionrelative:spreadsheet\\changeformatcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\spreadsheet\\changecolorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|solutionrelative:spreadsheet\\changecolorcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\spreadsheet\\invoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|solutionrelative:spreadsheet\\invoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\spreadsheet\\textboxgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|solutionrelative:spreadsheet\\textboxgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\spreadsheet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|solutionrelative:spreadsheet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\spreadsheet\\extendedtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|solutionrelative:spreadsheet\\extendedtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\spreadsheet\\extendedtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|solutionrelative:spreadsheet\\extendedtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\spreadsheet\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|solutionrelative:spreadsheet\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\spreadsheet\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{92732C1B-62E6-4F2D-B37F-5500FAC38656}|Spreadsheet\\Spreadsheet.csproj|solutionrelative:spreadsheet\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +58,154 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormulaEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\FormulaEvaluator.cs",
+              "RelativeDocumentMoniker": "Spreadsheet\\FormulaEvaluator.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\FormulaEvaluator.cs",
+              "RelativeToolTip": "Spreadsheet\\FormulaEvaluator.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCYAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:40:12.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Invoker.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\Invoker.cs",
+              "RelativeDocumentMoniker": "Spreadsheet\\Invoker.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\Invoker.cs",
+              "RelativeToolTip": "Spreadsheet\\Invoker.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwCgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:32:17.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangeFormatCommand.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\ChangeFormatCommand.cs",
+              "RelativeDocumentMoniker": "Spreadsheet\\ChangeFormatCommand.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\ChangeFormatCommand.cs",
+              "RelativeToolTip": "Spreadsheet\\ChangeFormatCommand.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAADUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:38:55.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChangeTextCommand.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\ChangeTextCommand.cs",
+              "RelativeDocumentMoniker": "Spreadsheet\\ChangeTextCommand.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\ChangeTextCommand.cs",
+              "RelativeToolTip": "Spreadsheet\\ChangeTextCommand.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:40:20.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChangeColorCommand.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\ChangeColorCommand.cs",
+              "RelativeDocumentMoniker": "Spreadsheet\\ChangeColorCommand.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\ChangeColorCommand.cs",
+              "RelativeToolTip": "Spreadsheet\\ChangeColorCommand.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:31:51.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\MainForm.cs",
+              "RelativeDocumentMoniker": "Spreadsheet\\MainForm.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\MainForm.cs",
+              "RelativeToolTip": "Spreadsheet\\MainForm.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAUwDMAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:44:39.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TextBoxGrid.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\TextBoxGrid.cs",
+              "RelativeDocumentMoniker": "Spreadsheet\\TextBoxGrid.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\TextBoxGrid.cs",
+              "RelativeToolTip": "Spreadsheet\\TextBoxGrid.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:27:08.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\Program.cs",
+              "RelativeDocumentMoniker": "Spreadsheet\\Program.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\Program.cs",
+              "RelativeToolTip": "Spreadsheet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T13:23:34.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExtendedTextBox.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\ExtendedTextBox.cs",
+              "RelativeDocumentMoniker": "Spreadsheet\\ExtendedTextBox.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\ExtendedTextBox.cs",
+              "RelativeToolTip": "Spreadsheet\\ExtendedTextBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:31:31.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExtendedTextBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\ExtendedTextBox.cs",
+              "RelativeDocumentMoniker": "Spreadsheet\\ExtendedTextBox.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\ExtendedTextBox.cs [Design]",
+              "RelativeToolTip": "Spreadsheet\\ExtendedTextBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:31:11.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\MainForm.cs",
+              "RelativeDocumentMoniker": "Spreadsheet\\MainForm.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\MainForm.cs [Design]",
+              "RelativeToolTip": "Spreadsheet\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:44:33.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\Command.cs",
+              "RelativeDocumentMoniker": "Spreadsheet\\Command.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L10\\Spreadsheet\\Command.cs",
+              "RelativeToolTip": "Spreadsheet\\Command.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T11:30:21.035Z"
             }
           ]
         }

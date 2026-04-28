@@ -137,4 +137,13 @@ This project implements the Proxy, Composite, and Iterator structural and behavi
 <img src="images/lab9_2.png" alt="Lab 9 - Project Task Explorer" width="500"> <br>
 
 
+## 📂 Lab 10
+### 📖 Description
+This project implements the **Command** and **Adapter** design patterns across two distinct applications. It features a functional Spreadsheet simulator with advanced state management and a geometric calculator that unifies incompatible class interfaces.
 
+* **Command Pattern**: Encapsulates user actions into standalone command objects (`ChangeColorCommand`, `ChangeTextCommand`, `ChangeFormatCommand`) using an `Invoker` to manage execution on `ExtendedTextBox` receivers.
+* **Undo/Redo System**: Features a robust history management system using command stacks, allowing users to seamlessly undo and redo text, color, and format modifications within the grid.
+* **Spreadsheet Engine & Math**: Simulates a Microsoft Excel-like interface with a dynamically generated grid (`TextBoxGrid`) and includes bonus functionality to evaluate basic formulas (`ADD`, `SUB`, `MUL`, `DIV`) between cells.
+
+### 🖼️ Screenshot
+<img src = "images/lab10_1.png" alt = "Lab 10 Spreadsheet and Adapter" width = "500"> <br>

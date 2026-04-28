@@ -49,6 +49,7 @@
     <Compile Include="ExtendedTextBox.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="FormulaEvaluator.cs" />
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>

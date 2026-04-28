@@ -22,41 +22,37 @@ namespace Spreadsheet
     public class ChangeTextCommand : Command
     {
         private ExtendedTextBox _cell;
-        // alte campuri
+        private string _newText;
+        private string _previousText;
 
         public ChangeTextCommand(ExtendedTextBox cell, string description)
         {
-            // se seteaza valorile campurilor
-            // pentru descriere, se foloseste proprietatea Description definita in clasa de baza Command
-
-            // atentie! aici textul nou deja exista in cell.Text
-            // se poate folosi proprietatea cell.PreviousText pentru a implementa comanda
-            // cell.PreviousText nu este asignata in mod automat in scheletul de program dat, codul corespunzator trebuie scris
-
-            throw new Exception("Aceasta metoda trebuie completata");
+            _cell = cell;
+            Description = description;
+            _newText = cell.Text;
+            _previousText = cell.PreviousText;
         }
 
         public override bool MakesChanges()
         {
-            // returneaza true daca se modifica ceva in celula de tip ExtendedTextBox
-            // returneaza false daca nu se modifica nimic
-
-            throw new Exception("Aceasta metoda trebuie completata");
+            return _newText != _previousText;
         }
 
         public override void Execute()
         {
-            throw new Exception("Aceasta metoda trebuie completata");
+            _cell.PreviousText = _newText;
         }
 
         public override void Undo()
         {
-            throw new Exception("Aceasta metoda trebuie completata");
+            _cell.Text = _previousText;
+            _cell.PreviousText = _previousText;
         }
 
         public override void Redo()
         {
-            throw new Exception("Aceasta metoda trebuie completata");
+            _cell.Text = _newText;
+            _cell.PreviousText = _newText;
         }
     }
 }

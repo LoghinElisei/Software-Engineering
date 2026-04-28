@@ -23,36 +23,35 @@ namespace Spreadsheet
     internal class ChangeColorCommand : Command
     {
         private ExtendedTextBox _cell;
-        // alte campuri
+        private Color _color;
+        private Color _previousColor;
 
         public ChangeColorCommand(ExtendedTextBox cell, Color color, string description)
         {
-            // se seteaza valorile campurilor
-            // pentru descriere, se foloseste proprietatea Description definita in clasa de baza Command
-            throw new Exception("Aceasta metoda trebuie completata");
+            _cell = cell;
+            _color = color;
+            Description = description;
         }
 
         public override bool MakesChanges()
         {
-            // returneaza true daca se modifica ceva in celula de tip ExtendedTextBox
-            // returneaza false daca nu se modifica nimic
-
-            throw new Exception("Aceasta metoda trebuie completata");
+            return _cell.ForeColor != _color;
         }
 
         public override void Execute()
         {
-            throw new Exception("Aceasta metoda trebuie completata");
+            _previousColor = _cell.ForeColor;
+            _cell.ForeColor = _color;
         }
 
         public override void Undo()
         {
-            throw new Exception("Aceasta metoda trebuie completata");
+            _cell.ForeColor = _previousColor;
         }
 
         public override void Redo()
         {
-            throw new Exception("Aceasta metoda trebuie completata");
+            _cell.ForeColor = _color;
         }
     }
 }

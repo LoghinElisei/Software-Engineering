@@ -57,24 +57,35 @@ namespace Spreadsheet
 
         public void SetAndExecute(Command command)
         {
-            // executa comanda primita ca parametru si o adauga in stiva de comenzi
-
-            throw new Exception("Aceasta metoda trebuie completata");
+            command.Execute();
+            _commands.Push(command);
+            _redoCommands.Clear();
         }
 
         public void Undo() // (int level)
         {
-            throw new Exception("Aceasta metoda trebuie completata");
+            if (_commands.Count > 0)
+            {
+                Command cmd = _commands.Pop();
+                cmd.Undo();
+                _redoCommands.Push(cmd);
+            }
         }
 
         public void Redo() // (int level)
         {
-            throw new Exception("Aceasta metoda trebuie completata");
+            if (_redoCommands.Count > 0)
+            {
+                Command cmd = _redoCommands.Pop();
+                cmd.Redo();
+                _commands.Push(cmd);
+            }
         }
 
         public void Clear()
         {
-            throw new Exception("Aceasta metoda trebuie completata");
+            _commands.Clear();
+            _redoCommands.Clear();
         }
     }
 }
