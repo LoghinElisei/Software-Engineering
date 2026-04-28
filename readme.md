@@ -128,11 +128,13 @@ This project implements the Proxy, Composite, and Iterator structural and behavi
 * **Security & Authentication**: Implements SHA1 password hashing and verifies user credentials against a secure database file.
 * **Rijndael Encryption**: Secures document content during simulated transfer between the real manager and the proxy through encryption and decryption.
 * **Administrative Module**: Provides a dedicated interface for authorized admins to create and persist new user accounts. 
-* **Composite Pattern**: Models a "Project Task Explorer" where individual tasks and task groups share a unified interface for calculating total project costs and durations.
-* **Iterator Strategies (DFS & BFS)**: Features custom iterators for BFS (level-by-level processing) and DFS (deep sub-task prioritization) traversal of the project tree.
+* **Composite Pattern**: Models a "Project Task Explorer" using a unified interface (`ProjectComponent`). It enables the dynamic construction of nested task trees and performs recursive calculations for total project costs and cumulative durations across all sub-activities.
+* **Iterator Strategies (DFS & BFS)**: Features custom iterators to navigate the project tree flexibly. It utilizes a Queue-based approach for BFS (processing project phases level-by-level) and a Stack-based approach for DFS (prioritizing the deep completion of specific sub-task branches).
+* **Interactive UI Integration**: Connects the underlying Composite data model to a Windows Forms `TreeView` for clear visual representation . It allows users to dynamically select parent nodes, add new sub-tasks with specific properties, and generate ordered traversal reports directly from the interface.
 
 ### 🖼️ Screenshots
-<img src = "images/lab9_1.png" alt = "Lab 9" width = "500"> <br>
+<img src="images/lab9_1.png" alt="Lab 9 - Proxy" width="500"> <br>
+<img src="images/lab9_2.png" alt="Lab 9 - Project Task Explorer" width="500"> <br>
 
 
 
