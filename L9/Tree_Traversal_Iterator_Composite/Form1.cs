@@ -129,7 +129,7 @@ namespace Tree_Traversal_Iterator_Composite
         private void DisplayTotals()
         {
             listBoxOutput.Items.Add("");
-            listBoxOutput.Items.Add($"--- DURATĂ TOTALĂ PROIECT: {_projectRoot.GetTotalDuration()} zile ---");
+            listBoxOutput.Items.Add($"--- DURATA TOTALĂ PROIECT: {_projectRoot.GetTotalDuration()} zile ---");
             listBoxOutput.Items.Add($"--- COST TOTAL PROIECT: {_projectRoot.GetTotalCost()} USD ---");
         }
 

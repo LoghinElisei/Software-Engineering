@@ -3,17 +3,17 @@
   "WorkspaceRootPath": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L9\\Server_Clien_Protection_Proxy\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{921CE208-56FF-4C2E-AC43-2AFF47BCB565}|ProtectionProxy.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L9\\Server_Clien_Protection_Proxy\\proxydocumentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{921CE208-56FF-4C2E-AC43-2AFF47BCB565}|ProtectionProxy.csproj|solutionrelative:proxydocumentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AA1492F4-52A2-4265-857D-20E5F53361CA}|..\\RealDocumentManager_Server\\RealDocumentManager_Server.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l9\\realdocumentmanager_server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA1492F4-52A2-4265-857D-20E5F53361CA}|..\\RealDocumentManager_Server\\RealDocumentManager_Server.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l9\\realdocumentmanager_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AA1492F4-52A2-4265-857D-20E5F53361CA}|..\\RealDocumentManager_Server\\RealDocumentManager_Server.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l9\\realdocumentmanager_server\\realdocumentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA1492F4-52A2-4265-857D-20E5F53361CA}|..\\RealDocumentManager_Server\\RealDocumentManager_Server.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l9\\realdocumentmanager_server\\realdocumentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{921CE208-56FF-4C2E-AC43-2AFF47BCB565}|ProtectionProxy.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l9\\server_clien_protection_proxy\\proxydocumentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{921CE208-56FF-4C2E-AC43-2AFF47BCB565}|ProtectionProxy.csproj|solutionrelative:proxydocumentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA1492F4-52A2-4265-857D-20E5F53361CA}|..\\RealDocumentManager_Server\\RealDocumentManager_Server.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l9\\realdocumentmanager_server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AA1492F4-52A2-4265-857D-20E5F53361CA}|..\\RealDocumentManager_Server\\RealDocumentManager_Server.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l9\\realdocumentmanager_server\\cryptography.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -37,7 +37,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -57,20 +57,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Server.cs",
               "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L9\\RealDocumentManager_Server\\Server.cs",
               "RelativeDocumentMoniker": "..\\RealDocumentManager_Server\\Server.cs",
               "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L9\\RealDocumentManager_Server\\Server.cs",
               "RelativeToolTip": "..\\RealDocumentManager_Server\\Server.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-27T05:46:27.499Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "RealDocumentManager.cs",
               "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L9\\RealDocumentManager_Server\\RealDocumentManager.cs",
               "RelativeDocumentMoniker": "..\\RealDocumentManager_Server\\RealDocumentManager.cs",
@@ -78,7 +78,8 @@
               "RelativeToolTip": "..\\RealDocumentManager_Server\\RealDocumentManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T05:44:59.982Z"
+              "WhenOpened": "2026-04-27T05:44:59.982Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -94,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L9\\RealDocumentManager_Server\\Program.cs",
               "RelativeDocumentMoniker": "..\\RealDocumentManager_Server\\Program.cs",
@@ -102,12 +103,11 @@
               "RelativeToolTip": "..\\RealDocumentManager_Server\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-27T05:36:41.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-27T05:36:41.952Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProxyDocumentManager.cs",
               "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L9\\Server_Clien_Protection_Proxy\\ProxyDocumentManager.cs",
               "RelativeDocumentMoniker": "ProxyDocumentManager.cs",

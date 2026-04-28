@@ -7,23 +7,23 @@
       "RelativeMoniker": "D:0:0:{55DFB9EA-DDB0-46F5-AD96-E232A57247E8}|Tree_Traversal_Iterator_Composite.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55DFB9EA-DDB0-46F5-AD96-E232A57247E8}|Tree_Traversal_Iterator_Composite.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l9\\tree_traversal_iterator_composite\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{55DFB9EA-DDB0-46F5-AD96-E232A57247E8}|Tree_Traversal_Iterator_Composite.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L9\\Tree_Traversal_Iterator_Composite\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{55DFB9EA-DDB0-46F5-AD96-E232A57247E8}|Tree_Traversal_Iterator_Composite.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55DFB9EA-DDB0-46F5-AD96-E232A57247E8}|Tree_Traversal_Iterator_Composite.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l9\\tree_traversal_iterator_composite\\models\\dfsiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55DFB9EA-DDB0-46F5-AD96-E232A57247E8}|Tree_Traversal_Iterator_Composite.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L9\\Tree_Traversal_Iterator_Composite\\models\\dfsiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55DFB9EA-DDB0-46F5-AD96-E232A57247E8}|Tree_Traversal_Iterator_Composite.csproj|solutionrelative:models\\dfsiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55DFB9EA-DDB0-46F5-AD96-E232A57247E8}|Tree_Traversal_Iterator_Composite.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l9\\tree_traversal_iterator_composite\\models\\iprojectiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55DFB9EA-DDB0-46F5-AD96-E232A57247E8}|Tree_Traversal_Iterator_Composite.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L9\\Tree_Traversal_Iterator_Composite\\models\\iprojectiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55DFB9EA-DDB0-46F5-AD96-E232A57247E8}|Tree_Traversal_Iterator_Composite.csproj|solutionrelative:models\\iprojectiterator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55DFB9EA-DDB0-46F5-AD96-E232A57247E8}|Tree_Traversal_Iterator_Composite.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l9\\tree_traversal_iterator_composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55DFB9EA-DDB0-46F5-AD96-E232A57247E8}|Tree_Traversal_Iterator_Composite.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L9\\Tree_Traversal_Iterator_Composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55DFB9EA-DDB0-46F5-AD96-E232A57247E8}|Tree_Traversal_Iterator_Composite.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55DFB9EA-DDB0-46F5-AD96-E232A57247E8}|Tree_Traversal_Iterator_Composite.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l9\\tree_traversal_iterator_composite\\iterators\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{55DFB9EA-DDB0-46F5-AD96-E232A57247E8}|Tree_Traversal_Iterator_Composite.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L9\\Tree_Traversal_Iterator_Composite\\iterators\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{55DFB9EA-DDB0-46F5-AD96-E232A57247E8}|Tree_Traversal_Iterator_Composite.csproj|solutionrelative:iterators\\projecttask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -50,8 +50,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T07:48:43.309Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T07:48:43.309Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "Iterators\\ProjectTask.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T07:48:37.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T07:48:37.35Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "Models\\IProjectIterator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T07:48:34.628Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T07:48:34.628Z"
             },
             {
               "$type": "Document",
@@ -89,8 +86,7 @@
               "RelativeToolTip": "Models\\DFSIterator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T07:48:27.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-28T07:48:27.341Z"
             },
             {
               "$type": "Document",
@@ -112,7 +108,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L9\\Tree_Traversal_Iterator_Composite\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAGAAAAAAAAAAAAAowGwAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-28T07:26:43.718Z",
               "EditorCaption": ""
