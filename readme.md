@@ -147,3 +147,29 @@ This project implements the **Command** and **Adapter** design patterns across t
 
 ### 🖼️ Screenshot
 <img src = "images/lab10_1.png" alt = "Lab 10 Spreadsheet and Adapter" width = "500"> <br>
+
+
+## 📂 Lab 11
+
+### 📖 Description
+
+This project focuses on the **Estimation of Execution Speed** for various sorting algorithms using different timing techniques in a C# Windows Forms environment. It utilizes a decoupled architecture with specialized interfaces to allow for easy extensibility of both measurement methods and sorting logic.
+
+* **Sorting Algorithms**: Implements and evaluates the performance of **Quick sort**, **Shell sort**, and **Bubble sort** on real-number vectors of varying sizes and initial states .
+
+
+* **Measurement Methods**: Features three distinct timing strategies: `DateTime` for basic intervals, `PerformanceCounter` utilizing Windows kernel functions for high-precision results, and the `Stopwatch` class from the `System.Diagnostics` namespace.
+
+
+* **Modular Architecture**: Employs the `ISort` interface for algorithm encapsulation and the `IMeasure` interface for timing operations, ensuring that the main application can swap strategies dynamically at runtime.
+
+
+* **Vector Generation & Progress**: Includes functionality to generate random, sorted, or reverse-sorted vectors while using a **seed** value to ensure reproducibility during performance comparisons .
+
+
+* **UI & Visual Feedback**: Provides a comprehensive user interface with **ProgressBars** to track the status of operations and a dedicated results area to log generation and sorting durations in milliseconds.
+
+
+
+### 🖼️ Screenshot
+<img src = "images/lab11_1.png" alt = "Lab 11 " width = "500"> <br>

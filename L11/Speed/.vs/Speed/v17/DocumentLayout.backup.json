@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l11\\speed\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l11\\speed\\selectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|solutionrelative:selectionsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|solutionrelative:quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l11\\speed\\shellsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|solutionrelative:shellsort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l11\\speed\\stopwatchmeasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|solutionrelative:stopwatchmeasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l11\\speed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|solutionrelative:bubblesort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\performancecountermeasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|solutionrelative:performancecountermeasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|solutionrelative:form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\imeasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F653C6-5E11-4A54-9AA4-424142FC1ABB}|Speed.csproj|solutionrelative:imeasure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Speed||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SelectionSort.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\SelectionSort.cs",
+              "RelativeDocumentMoniker": "SelectionSort.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\SelectionSort.cs",
+              "RelativeToolTip": "SelectionSort.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T09:59:25.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T05:22:56.503Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAwwGsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T05:56:00.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAAsBAAAAAAAAAAAswBwBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T06:11:12.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShellSort.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\ShellSort.cs",
+              "RelativeDocumentMoniker": "ShellSort.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\ShellSort.cs",
+              "RelativeToolTip": "ShellSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T10:09:25.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuickSort.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\QuickSort.cs",
+              "RelativeDocumentMoniker": "QuickSort.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\QuickSort.cs",
+              "RelativeToolTip": "QuickSort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T06:26:58.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StopwatchMeasure.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\StopwatchMeasure.cs",
+              "RelativeDocumentMoniker": "StopwatchMeasure.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\StopwatchMeasure.cs",
+              "RelativeToolTip": "StopwatchMeasure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T09:56:44.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-10T09:56:26.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BubbleSort.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\BubbleSort.cs",
+              "RelativeDocumentMoniker": "BubbleSort.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\BubbleSort.cs",
+              "RelativeToolTip": "BubbleSort.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T06:26:27.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\Form1.resx",
+              "RelativeDocumentMoniker": "Form1.resx",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\Form1.resx",
+              "RelativeToolTip": "Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-05-05T06:11:25.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PerformanceCounterMeasure.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\PerformanceCounterMeasure.cs",
+              "RelativeDocumentMoniker": "PerformanceCounterMeasure.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\PerformanceCounterMeasure.cs",
+              "RelativeToolTip": "PerformanceCounterMeasure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T06:10:23.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IMeasure.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\IMeasure.cs",
+              "RelativeDocumentMoniker": "IMeasure.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\IMeasure.cs",
+              "RelativeToolTip": "IMeasure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T05:24:13.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Speed",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\Speed.csproj",
+              "RelativeDocumentMoniker": "Speed.csproj",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L11\\Speed\\Speed.csproj",
+              "RelativeToolTip": "Speed.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-05T05:23:15.573Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
