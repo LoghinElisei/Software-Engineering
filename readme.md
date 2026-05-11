@@ -173,3 +173,25 @@ This project focuses on the **Estimation of Execution Speed** for various sortin
 
 ### 🖼️ Screenshot
 <img src = "images/lab11_1.png" alt = "Lab 11 " width = "500"> <br>
+
+
+## 📂 Lab 12
+
+### 📖 Description
+
+This project focuses on **Unit Testing** in C# using the **MS Test** framework to ensure code reliability and logic correctness. It implements a modular solution where mathematical and calendar logic are verified through automated test suites.
+
+* **Arithmetic Operations**: Implements a `MathOps` class featuring addition, subtraction, multiplication, and division, with specific tests for handling exceptions like division by zero.
+
+* **Custom Date Logic**: Features a `Zile` class designed to calculate the difference in days between a reference point (January 1, 2000) and a user-provided date.
+
+* **Algorithmic Constraints**: The date calculation is implemented without using the native `DateTime` class or year-based loops, relying instead on leap-year mathematical rules.
+
+* **Testing Framework**: Utilizes the **AAA (Arrange, Act, Assert)** pattern and various MS Test attributes such as `[TestMethod]`, `[ExpectedException]`, and `[Ignore]`.
+
+* **Validation & UI**: Employs the **Test Explorer** in Visual Studio to monitor the execution of 12 specific test cases, ensuring the algorithm handles leap years and invalid dates correctly.
+
+
+
+### 🖼️ Screenshot
+<img src = "images/lab12_1.png" alt = "Lab 11 " width = "500"> <br>

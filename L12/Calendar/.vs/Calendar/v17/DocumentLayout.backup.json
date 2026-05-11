@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L12\\Calendar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C21121B8-2675-4928-8A78-796AD57F64E5}|..\\UnitTestProjectCalendar\\UnitTestProjectCalendar.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l12\\unittestprojectcalendar\\ziletest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2B3D5A-6362-4DDC-B26F-EBB7DE9AF946}|Calendar.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l12\\calendar\\zile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2B3D5A-6362-4DDC-B26F-EBB7DE9AF946}|Calendar.csproj|solutionrelative:zile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2B3D5A-6362-4DDC-B26F-EBB7DE9AF946}|Calendar.csproj|c:\\users\\loghi\\desktop\\git project\\software engineering\\l12\\calendar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2B3D5A-6362-4DDC-B26F-EBB7DE9AF946}|Calendar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ZileTest.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L12\\UnitTestProjectCalendar\\ZileTest.cs",
+              "RelativeDocumentMoniker": "..\\UnitTestProjectCalendar\\ZileTest.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L12\\UnitTestProjectCalendar\\ZileTest.cs",
+              "RelativeToolTip": "..\\UnitTestProjectCalendar\\ZileTest.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:59:43.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Zile.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L12\\Calendar\\Zile.cs",
+              "RelativeDocumentMoniker": "Zile.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L12\\Calendar\\Zile.cs",
+              "RelativeToolTip": "Zile.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:55:53.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L12\\Calendar\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\loghi\\Desktop\\GIT PROJECT\\Software Engineering\\L12\\Calendar\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T10:55:18.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
