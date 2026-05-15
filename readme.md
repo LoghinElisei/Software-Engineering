@@ -194,4 +194,30 @@ This project focuses on **Unit Testing** in C# using the **MS Test** framework t
 
 
 ### 🖼️ Screenshot
-<img src = "images/lab12_1.png" alt = "Lab 11 " width = "500"> <br>
+<img src = "images/lab12_1.png" alt = "Lab 12 " width = "500"> <br>
+
+
+## 📂 Lab 13
+
+### 📖 Description
+
+This project focuses on **Black-Box Testing** of a class hierarchy in C# using a **.NET Framework Unit Testing** project. The objective is to evaluate four different implementations of a Triangle interface and identify bugs through comprehensive automated testing.
+
+* **Triangle Validation**: Evaluates sides (a, b, c) to determine if a triangle is Scalene, Isosceles, Equilateral, or Invalid using a custom evaluation method that returns a specific string format (e.g., "100", "010", "001", "0").
+
+
+* **Polymorphic Testing**: Tests four distinct implementations (`Triangle1`, `Triangle2`, `Triangle3`, `Triangle4`) of the `ITriangle` interface to uncover specific logical flaws, such as missing negative-value checks or invalid triangle inequalities.
+
+
+* **Test Case Design**: Implements specific black-box scenarios, including permutations, edge cases (zero, negative, integer overflow), degenerate triangles, and invalid configurations.
+
+
+* **Testing Framework**: Utilizes MS Test attributes (`[TestClass]`, `[TestInitialize]`, `[TestMethod]`) and an abstract base class (`TriangleUnitTests`) to streamline the testing across the target classes.
+
+
+* **Validation & UI**: Employs the **Test Explorer** in Visual Studio to monitor the execution of 84 total test cases, generating a detailed test matrix to compare expected behavior against actual program responses (resulting in 49 passed and 35 failed tests).
+
+
+
+### 🖼️ Screenshot
+<img src = "images/lab13_1.png" alt = "Lab 12 " width = "500"> <br>
